@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://bangalore.armyr.se'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Bangalore: En resa'
 theme = 'ananke'
+
+[params]  
+  cover_dimming_class = "bg-black-20"

@@ -1,0 +1,44 @@
+# Hugo output directory
+/public/
+/resources/
+
+# Local Hugo configuration file
+/config/_default/config.toml
+
+# Hugo cache directory
+/cache/
+/tmp/
+
+# Node modules directory (if using npm/yarn)
+node_modules/
+/public/resources/_gen/
+/assets/js/_gen/
+/assets/css/_gen/
+
+# .DS_Store for macOS users
+.DS_Store
+
+# Thumbnails
+**/.Thumbs.db
+
+# Hugo log files
+/hugo_stats.json
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# VSCode settings (optional)
+.vscode/
+
+# Private SSH keys (if any, ensure they are in a different folder or handled securely)
+*.pem
+*.key
+
+/import_scripts/blog/
+/import_scripts/bangalore.armyr.se/
+/import_scripts/uploads/

@@ -2,6 +2,7 @@
 title = 'Vardagsdramatik Och Lite Mindre Dramatik'
 date = 2023-02-03T00:00:00+00:00
 draft = false
+featured_image = "IMG_3900.jpeg"
 +++
 
 

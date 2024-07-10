@@ -2,6 +2,7 @@
 title = 'En Svensk Sommar'
 date = 2022-07-15T00:00:00+00:00
 draft = false
+featured_image = "Fina-bjursskjortan-pa-liten-DSC_2512.jpg"
 +++
 
 

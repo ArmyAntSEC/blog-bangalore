@@ -2,6 +2,7 @@
 title = 'Aventyrs Oktober Del 4 Slut Pa Forsta Etappen'
 date = 2022-10-16T00:00:00+00:00
 draft = false
+featured_image = "IMG_3497.jpeg"
 +++
 
 

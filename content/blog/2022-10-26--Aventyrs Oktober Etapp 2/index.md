@@ -2,6 +2,7 @@
 title = 'Aventyrs Oktober Etapp 2'
 date = 2022-10-26T00:00:00+00:00
 draft = false
+featured_image = "IMG_3517-1.jpeg"
 +++
 
 

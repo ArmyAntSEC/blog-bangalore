@@ -2,6 +2,7 @@
 title = 'Vardags November'
 date = 2022-12-04T00:00:00+00:00
 draft = false
+featured_image = "IMG_3590.jpeg"
 +++
 
 

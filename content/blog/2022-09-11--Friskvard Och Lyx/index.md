@@ -2,6 +2,7 @@
 title = 'Friskvard Och Lyx'
 date = 2022-09-11T00:00:00+00:00
 draft = false
+featured_image = "IMG_1057-2.jpeg"
 +++
 
 

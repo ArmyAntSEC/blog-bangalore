@@ -2,6 +2,7 @@
 title = 'Alla Sanningar Ar Redigerade'
 date = 2022-08-15T00:00:00+00:00
 draft = false
+featured_image = "IMG_2982.jpeg"
 +++
 
 

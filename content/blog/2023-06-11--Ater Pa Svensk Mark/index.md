@@ -2,6 +2,7 @@
 title = 'Ater Pa Svensk Mark'
 date = 2023-06-11T00:00:00+00:00
 draft = false
+featured_image = "IMG_4248.jpeg"
 +++
 
 

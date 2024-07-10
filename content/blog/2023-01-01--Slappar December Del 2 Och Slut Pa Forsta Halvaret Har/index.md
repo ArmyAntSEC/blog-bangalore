@@ -2,6 +2,7 @@
 title = 'Slappar December Del 2 Och Slut Pa Forsta Halvaret Har'
 date = 2023-01-01T00:00:00+00:00
 draft = false
+featured_image = "Kenliworth-aerial-view.jpeg"
 +++
 
 

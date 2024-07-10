@@ -2,6 +2,7 @@
 title = 'Aventyrs Oktober Del 1 1'
 date = 2022-10-05T00:00:00+00:00
 draft = false
+featured_image = "IMG_4212.jpeg"
 +++
 
 

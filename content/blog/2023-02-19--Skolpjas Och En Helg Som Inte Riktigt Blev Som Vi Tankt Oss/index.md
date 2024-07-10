@@ -2,6 +2,7 @@
 title = 'Skolpjas Och En Helg Som Inte Riktigt Blev Som Vi Tankt Oss'
 date = 2023-02-19T00:00:00+00:00
 draft = false
+featured_image = "IMG_3936.jpg"
 +++
 
 

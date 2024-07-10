@@ -2,6 +2,7 @@
 title = 'Lite Gott Och Blandat I Mars'
 date = 2023-04-04T00:00:00+00:00
 draft = false
+featured_image = "IMG_3982.jpeg"
 +++
 
 

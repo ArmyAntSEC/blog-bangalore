@@ -2,6 +2,7 @@
 title = 'Januari'
 date = 2023-01-29T00:00:00+00:00
 draft = false
+featured_image = "IMG_3844.jpeg"
 +++
 
 

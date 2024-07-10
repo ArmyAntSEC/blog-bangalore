@@ -2,6 +2,7 @@
 title = 'Epilog'
 date = 2023-09-04T00:00:00+00:00
 draft = false
+featured_image = "IMG_4370-1.jpg"
 +++
 
 

@@ -2,6 +2,7 @@
 title = 'And So It Begins'
 date = 2022-06-13T00:00:00+00:00
 draft = false
+featured_image = "IMG_2707.jpeg"
 +++
 
 

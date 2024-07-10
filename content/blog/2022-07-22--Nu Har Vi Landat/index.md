@@ -2,6 +2,7 @@
 title = 'Nu Har Vi Landat'
 date = 2022-07-22T00:00:00+00:00
 draft = false
+featured_image = "IMG_2796.jpeg"
 +++
 
 

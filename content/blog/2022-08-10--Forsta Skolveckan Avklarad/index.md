@@ -2,6 +2,7 @@
 title = 'Forsta Skolveckan Avklarad'
 date = 2022-08-10T00:00:00+00:00
 draft = false
+featured_image = "IMG_2971.jpeg"
 +++
 
 
